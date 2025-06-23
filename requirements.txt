@@ -1,0 +1,10 @@
+phidata
+python-dotenv
+wikipedia
+packaging
+fastapi
+uvicorn
+groq
+django
+duckduckgo-search>=6.3.0
+openai
